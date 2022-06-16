@@ -1,0 +1,22 @@
+{
+  "name": "nano-seed-finder",
+  "version": "1.0.0",
+  "description": "Wrote your nano seed down but made a typo? Now you can't find back your wallet because the seed doesn't match it. This tool allows to iterate over the seed and replace characters to try to find back your original one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/running-coder/nano-seed-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/running-coder/nano-seed-finder/issues"
+  },
+  "homepage": "https://github.com/running-coder/nano-seed-finder#readme",
+  "dependencies": {
+    "nanocurrency-web": "^1.4.3"
+  }
+}
